@@ -2,7 +2,6 @@ import java.util.*;
 
 public class Demo2
 {
-
 public static void main (String[] args)
 {
 /*
@@ -12,9 +11,11 @@ public static void main (String[] args)
    System.out.print("***\n");
    System.out.println("****");
 
-   int b=20;
- String name="Neha Pande";
- System.out.println(name);
+
+  int b=20;
+  String name="Neha Pande";
+  System.out.println(name);
+
 
  name ="Nehaaa";
 
@@ -25,9 +26,8 @@ public static void main (String[] args)
  int a = sc.nextInt();
  System.out.println(a);
  String name =sc.next();
- System.out.println(name); */
-
- //next() -- single Token
+ System.out.println(name); */                                     
+//next() --> single Token
  //nextint(),nextFloat()
  //nextline()
 
@@ -38,7 +38,7 @@ public static void main (String[] args)
  int sum = a + b;
  System.out.println("Sum is :" +sum);
  
-    
+}
 }
 
-}
+

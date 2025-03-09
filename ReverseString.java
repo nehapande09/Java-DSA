@@ -4,6 +4,7 @@ public class ReverseString {
     public static void main(String[] args) {
 
       // In this program we are using String Builder class instead of string
+      
        StringBuilder sb=new StringBuilder("Neha");
 
        for (int i=0; i<sb.length()/2 ; i++)
